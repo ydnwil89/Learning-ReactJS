@@ -1,5 +1,7 @@
 My first ReactJS app which shows you weather, temperature, atmosphere pressure and sunset time. 
 
+Have a few bugs!
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
